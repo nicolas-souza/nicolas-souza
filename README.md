@@ -2,8 +2,8 @@
 
 <h2>Um pouco sobre mim</h2>
 
-- :books: Quase Engenheiro de Controle e Automação  
-- :technologist: Atuando com desenvolvimento de softwares
+- :books: Bacharel em Engenharia de Controle e Automação  
+- :technologist: Desenvolvedor de software
 - :nerd_face: Entusiasta de IoT e sistemas embarcados
 
 <h2>:computer:Linguagens que atuo ou estudo</h2>
