@@ -54,3 +54,4 @@
   
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](http://www.linkedin.com/in/nicolas-de-souza)
 [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](http://medium.com/@nicolas_jsouza)
+[<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">](https://tinyurl.com/nicolasdesouza)
