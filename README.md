@@ -13,7 +13,7 @@
   Acredito que o conhecimento faz o mundo girar, por isso dediquei meus anos de graduação ao desenvolvimento de pesquisas no Instituto Federal Fluminense campus Macaé. Foi nessa oportunidade inclusive, que desenvolvi e aprimorei habilidades de liderança, comunicação, trabalho em equipe, além de entender como aprender.
 </p>
 
-<h2>:speech_balloon:Entre em contato nas redes sociais</h2>
+<h2>:speech_balloon: Entre em contato nas redes sociais</h2>
   
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](http://www.linkedin.com/in/nicolas-de-souza)
 [<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">](https://dev.to/nicolasdesouza)
